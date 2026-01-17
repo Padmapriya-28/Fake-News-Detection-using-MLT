@@ -3,31 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-orange.svg)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 > An AI-powered system to detect fake news on social media using Machine Learning techniques
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Machine Learning Models](#-machine-learning-models)
-- [Dataset](#-dataset)
-- [Evaluation Metrics](#-evaluation-metrics)
-- [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
-- [For Viva/Presentation](#-for-vivapresentation)
-- [Future Enhancements](#-future-enhancements)
-- [Contributors](#-contributors)
-- [License](#-license)
-
----
 
 ## 🎯 Project Overview
 
@@ -245,13 +224,6 @@ If models are not trained yet, you can train them through the web interface:
 - Explore confusion matrices
 - Interactive charts
 
-#### About Project Page
-- Complete project documentation
-- System architecture
-- Technical details
-- Learning objectives
-
----
 
 ## 🤖 Machine Learning Models
 
@@ -457,25 +429,6 @@ Fake News Detection using MLT/
 
 ---
 
-## 🎓 For Viva/Presentation
-
-### Key Points to Remember
-
-#### 1. Problem Definition
-- **What**: Fake news detection on social media
-- **Why**: Combat misinformation and its social impact
-- **How**: Machine Learning text classification
-
-#### 2. Methodology Explanation
-
-**Step 1: Data Collection**
-- Collect news articles with labels (Fake/Real)
-- Ensure balanced dataset
-
-**Step 2: Preprocessing**
-- Clean text (remove URLs, mentions, special characters)
-- Tokenization and stop-word removal
-- Stemming to reduce words to root form
 
 **Step 3: Feature Extraction**
 - TF-IDF (Term Frequency-Inverse Document Frequency)
@@ -594,45 +547,10 @@ Fake News Detection using MLT/
 
 ---
 
-## 👥 Contributors
-
-**Project Developer**: [Your Name]
-- **Course**: B.Tech Artificial Intelligence & Data Science
-- **Year**: 3rd Year
-- **Institution**: [Your College Name]
-- **Roll No**: [Your Roll Number]
-
-**Project Guide**: [Guide Name]
-- **Designation**: [Professor/Assistant Professor]
-- **Department**: Computer Science / AI & DS
 
 ---
 
-## 📜 License
 
-This project is developed for academic purposes as part of the undergraduate curriculum.
-
-**MIT License** - Feel free to use for educational purposes with attribution.
-
----
-
-## 🙏 Acknowledgments
-
-- **NLTK Team** - Natural Language Processing toolkit
-- **scikit-learn Developers** - Machine Learning library
-- **Streamlit Team** - Web application framework
-- **College Faculty** - Guidance and support
-- **Open Source Community** - Various resources and tutorials
-
----
-
-## 📞 Contact & Support
-
-For queries, suggestions, or issues:
-
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
-- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
 
@@ -650,10 +568,4 @@ For queries, suggestions, or issues:
 
 <div align="center">
 
-### ⭐ If you found this project helpful, please star it! ⭐
 
-**Developed with ❤️ for Academic Excellence**
-
-*Last Updated: January 2026*
-
-</div>
